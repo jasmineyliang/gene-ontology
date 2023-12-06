@@ -23,7 +23,7 @@ High throughput experimental evidence codes are: HTP, HDA, HMP, HGI, HEP
 See: http://geneontology.org/page/guide-go-evidence-codes  
 for details
 
-1. Results as tables, with a brief explanation of what you did. In the table captions, explain the values in each column
+1. Results as tables, with a brief explanation.
 
 2. A conclusions from this data  
 
